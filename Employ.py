@@ -18,7 +18,6 @@ def Create_obj():
     return obj
 
 print("Calling Create_obj() function")
-
 objReturn = Create_obj()
 
 print("Program End")
